@@ -1,0 +1,390 @@
+{
+  "id": 29,
+  "xmlId": "",
+  "title": "ИП Аверс/29",
+  "createdBy": 2491,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-01-10T16:34:45+03:00",
+  "updatedTime": "2025-01-22T16:16:17+03:00",
+  "movedTime": "2025-01-22T16:16:17+03:00",
+  "categoryId": 19,
+  "opened": "N",
+  "stageId": "DT1042_19:UC_VT6004",
+  "previousStageId": "DT1042_19:1",
+  "begindate": "2025-01-10T03:00:00+03:00",
+  "closedate": "2025-01-22T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm11_1735200711": {
+    "title": "Техническая документация",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm11_1735289212": {
+    "title": "Сроки поставки",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-01-16T03:00:00+03:00"
+  },
+  "ufCrm11_1735305367": {
+    "title": "С какой компании проводить оплату",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "DIALOG",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "485",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "487",
+        "VALUE": "KINETIC"
+      },
+      {
+        "ID": "489",
+        "VALUE": "Paving Stone Company"
+      },
+      {
+        "ID": "491",
+        "VALUE": "USTROY.KZ"
+      },
+      {
+        "ID": "493",
+        "VALUE": "Аверс Бетон"
+      },
+      {
+        "ID": "495",
+        "VALUE": "ИП Аверс"
+      },
+      {
+        "ID": "497",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "499",
+        "VALUE": "Торговый дом Аверс"
+      }
+    ],
+    "value": 499,
+    "titleValue": "Торговый дом Аверс"
+  },
+  "ufCrm11_1736322766": {
+    "title": "Тип закупки",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "533",
+        "VALUE": "Обычная закупка"
+      },
+      {
+        "ID": "535",
+        "VALUE": "Срочная закупка"
+      },
+      {
+        "ID": "537",
+        "VALUE": "Закупка на меленькую сумму"
+      },
+      {
+        "ID": "539",
+        "VALUE": "Закупка у единственного поставщика"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm11_1736420275": {
+    "title": "Адрес доставки",
+    "type": "address",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SHOW_MAP": "Y"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1736519383": {
+    "title": "Производственная база",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "557",
+        "VALUE": "ПП1"
+      },
+      {
+        "ID": "559",
+        "VALUE": "ПП2"
+      },
+      {
+        "ID": "565",
+        "VALUE": "ПП3"
+      },
+      {
+        "ID": "561",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 565,
+    "titleValue": "ПП3"
+  },
+  "ufCrm11_1736519445": {
+    "title": "Центр затрат",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "563",
+        "VALUE": "Автотранспортный цех 000000013"
+      },
+      {
+        "ID": "567",
+        "VALUE": "Автотранспортный цех (спецтехника) 000000023"
+      },
+      {
+        "ID": "569",
+        "VALUE": "Администрация ASYL QALA 000000024"
+      },
+      {
+        "ID": "571",
+        "VALUE": "Администрация KINETIC 000000030"
+      }
+    ],
+    "value": 563,
+    "titleValue": "Автотранспортный цех 000000013"
+  },
+  "ufCrm11_1736519490": {
+    "title": "Направление затрат",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "573",
+        "VALUE": "Административные расходы"
+      },
+      {
+        "ID": "575",
+        "VALUE": "Взносы в кассу"
+      },
+      {
+        "ID": "577",
+        "VALUE": "Взносы и отчисления на мед.страхование"
+      },
+      {
+        "ID": "579",
+        "VALUE": "Возврат денежных средств покупателю"
+      },
+      {
+        "ID": "581",
+        "VALUE": "Возврат оплаты"
+      }
+    ],
+    "value": 573,
+    "titleValue": "Административные расходы"
+  },
+  "ufCrm11_1736519567": {
+    "title": "Артикул",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1736519628": {
+    "title": "Номенклатура ",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1736519681": {
+    "title": "Еденицы измерения",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": "шт"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1741643743746": {
+    "title": "ID закупки (тех.)",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1741647382": {
+    "title": "Подходящие группы закупок",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "DYNAMIC_1038": "Y",
+      "LEAD": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm11_1741779127504": {
+    "title": "Что сделать",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1741779144125": {
+    "title": "Описание задачи",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm11_1741779166406": {
+    "title": "Крайний срок",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "assignedById": 2491,
+  "isRecurring": "N",
+  "lastActivityBy": 2491,
+  "lastActivityTime": "2025-01-10T16:34:45+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1038": null,
+  "parentId1046": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1042
+}

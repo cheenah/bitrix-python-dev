@@ -1,0 +1,226 @@
+{
+  "id": 3,
+  "xmlId": "",
+  "title": "3",
+  "createdBy": 2569,
+  "updatedBy": 0,
+  "movedBy": 2569,
+  "createdTime": "2025-02-27T01:07:21+03:00",
+  "updatedTime": "2025-03-11T00:09:44+03:00",
+  "movedTime": "2025-02-27T01:07:21+03:00",
+  "categoryId": 15,
+  "opened": "N",
+  "previousStageId": "",
+  "begindate": "2025-02-27T03:00:00+03:00",
+  "closedate": "2025-03-06T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm7_1735198752": {
+    "title": "Заявитель",
+    "type": "employee",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": 2569
+  },
+  "ufCrm7_1735198935": {
+    "title": "Рейтинг",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 3
+  },
+  "ufCrm7_1735288342": {
+    "title": "Неполные заявки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 5
+  },
+  "ufCrm7_1735288365": {
+    "title": "Несвоевременные ответы",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2
+  },
+  "ufCrm7_1735288404": {
+    "title": "Срочные заявки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 3
+  },
+  "ufCrm7_1735288427": {
+    "title": "Возвраты заявок на доработку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2
+  },
+  "ufCrm7_1736839070": {
+    "title": "Организация",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "583",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "585",
+        "VALUE": "KINETIC"
+      },
+      {
+        "ID": "587",
+        "VALUE": "Paving Stone Company"
+      },
+      {
+        "ID": "589",
+        "VALUE": "USTROY.KZ"
+      },
+      {
+        "ID": "591",
+        "VALUE": "Аверс Бетон"
+      },
+      {
+        "ID": "593",
+        "VALUE": "ИП Аверс"
+      },
+      {
+        "ID": "595",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "597",
+        "VALUE": "Торговый дом Аверс"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm7_1736839212": {
+    "title": "Центр затрат",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "599",
+        "VALUE": "Автотранспортный цех 000000013 "
+      },
+      {
+        "ID": "601",
+        "VALUE": "Автотранспортный цех (спецтехника) 000000023 "
+      },
+      {
+        "ID": "603",
+        "VALUE": "Администрация ASYL QALA 000000024 "
+      },
+      {
+        "ID": "605",
+        "VALUE": "Администрация KINETIC 000000030 "
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm7_1741639354842": {
+    "title": "ID заявителя (текстовое тех.) ",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "2569"
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-02-27T01:07:21+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1032
+}

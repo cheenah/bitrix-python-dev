@@ -1,0 +1,182 @@
+{
+  "id": 121,
+  "xmlId": "",
+  "title": "Карточка бонусов за перевозку: Арман кала Лайт 1-1",
+  "createdBy": 1797,
+  "updatedBy": 1797,
+  "movedBy": 1,
+  "createdTime": "2025-09-23T06:16:42+03:00",
+  "updatedTime": "2025-09-23T06:16:42+03:00",
+  "movedTime": "2025-09-23T06:16:42+03:00",
+  "categoryId": 73,
+  "opened": "Y",
+  "previousStageId": "",
+  "begindate": "2025-09-23T03:00:00+03:00",
+  "closedate": "2025-09-30T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm61_1745650733132": {
+    "title": "Плановая сумма товары",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 13017776.07
+  },
+  "ufCrm61_1745650772362": {
+    "title": "Фактическая сумма товары",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650794920": {
+    "title": "Ставка бонуса",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650825622": {
+    "title": "Бюджет сделки на перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 3960000
+  },
+  "ufCrm61_1745650843659": {
+    "title": "Фактические затраты за перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650896300": {
+    "title": "Скоректированный бюджет перевозки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650916680": {
+    "title": "Экономия перевозки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650932470": {
+    "title": "Сумма бонуса за перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm61_1745650954265": {
+    "title": "Дата расчета",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "assignedById": 1,
+  "isRecurring": "N",
+  "lastActivityBy": 1797,
+  "lastActivityTime": "2025-09-23T06:16:42+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 12885,
+  "parentId1088": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1152
+}

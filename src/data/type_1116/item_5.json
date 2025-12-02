@@ -1,0 +1,169 @@
+{
+  "id": 5,
+  "xmlId": "",
+  "title": "Swiss hotel Almaty",
+  "createdBy": 2071,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-04-23T12:27:23+03:00",
+  "updatedTime": "2025-04-23T12:30:13+03:00",
+  "movedTime": "2025-04-23T12:30:13+03:00",
+  "categoryId": 57,
+  "opened": "N",
+  "stageId": "DT1116_57:SUCCESS",
+  "previousStageId": "DT1116_57:PREPARATION",
+  "begindate": "2025-04-23T03:00:00+03:00",
+  "closedate": "2025-04-30T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 23508.8,
+  "isManualOpportunity": "N",
+  "taxValue": 2518.8,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm45_1744711143887": {
+    "title": "Комментарий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm45_1744711566313": {
+    "title": "Доставка",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1467",
+        "VALUE": "Доставка до объекта"
+      },
+      {
+        "ID": "1469",
+        "VALUE": "Самовывоз"
+      }
+    ],
+    "value": 1467,
+    "titleValue": "Доставка до объекта"
+  },
+  "ufCrm45_1744711743166": {
+    "title": "Статус",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1471",
+        "VALUE": "Создана"
+      },
+      {
+        "ID": "1477",
+        "VALUE": "Согласование"
+      },
+      {
+        "ID": "1473",
+        "VALUE": "Согласована"
+      },
+      {
+        "ID": "1475",
+        "VALUE": "Отклонена"
+      }
+    ],
+    "value": 1473,
+    "titleValue": "Согласована"
+  },
+  "ufCrm45_1744713532952": {
+    "title": "Затраты на доставку",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 40000
+  },
+  "ufCrm45_1744790835316": {
+    "title": "Общие затраты",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 63508.8
+  },
+  "ufCrm45_1744791579048": {
+    "title": "Заявка на предоставление образцов",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 292113,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1116&id=5&fieldName=UF_CRM_45_1744791579048&fileId=292113",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTE2JmlkPTUmZmllbGROYW1lPVVGX0NSTV80NV8xNzQ0NzkxNTc5MDQ4JmZpbGVJZD0yOTIxMTMmXz1INDNWQ3haR1dBYXZOd2V6VERSY3NVQmUxcmltOU12ZQ%3D%3D%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVEUySm1sa1BUVW1abWxsYkdST1lXMWxQVlZHWDBOU1RWODBOVjh4TnpRME56a3hOVGM1TURRNEptWnBiR1ZKWkQweU9USXhNVE1tWHoxSU5ETldRM2hhUjFkQllYWk9kMlY2VkVSU1kzTlZRbVV4Y21sdE9VMTJaUT09fDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.KjCyp6SXRbhy96nmHEZBcrgPz808bUfMZRn97%2FQJskM%3D"
+    }
+  },
+  "assignedById": 2071,
+  "isRecurring": "N",
+  "lastActivityBy": 1,
+  "lastActivityTime": "2025-04-23T12:29:59+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 8805,
+  "parentId1102": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1116
+}

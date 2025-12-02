@@ -1,0 +1,314 @@
+{
+  "id": 283,
+  "xmlId": "",
+  "title": "Астана-Караганда",
+  "createdBy": 2071,
+  "updatedBy": 2719,
+  "movedBy": 2719,
+  "createdTime": "2025-06-30T13:27:29+03:00",
+  "updatedTime": "2025-06-30T16:04:46+03:00",
+  "movedTime": "2025-06-30T16:04:46+03:00",
+  "categoryId": 49,
+  "opened": "N",
+  "stageId": "DT1098_49:SUCCESS",
+  "previousStageId": "DT1098_49:CLIENT",
+  "begindate": "2025-06-30T03:00:00+03:00",
+  "closedate": "2025-07-07T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm37_1743851391648": {
+    "title": "Счет на оплату",
+    "type": "file",
+    "isRequired": true,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": [
+      {
+        "id": 310309,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743851391648&fileId=310309",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM4NTEzOTE2NDgmZmlsZUlkPTMxMDMwOSZfPXVXTWgwbGpPcUZzMjJqMllsbmdZQ0VobXI1SDVrTldF%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTROVEV6T1RFMk5EZ21abWxzWlVsa1BUTXhNRE13T1NaZlBYVlhUV2d3YkdwUGNVWnpNakpxTWxsc2JtZFpRMFZvYlhJMVNEVnJUbGRGfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.8ouGEXbM98Ymo43M4X%2B3Sg%2Fyc39YK%2Fz6pUChkab%2FkgI%3D"
+      }
+    ]
+  },
+  "ufCrm37_1743851429513": {
+    "title": "ТТН",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": [
+      {
+        "id": 310327,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743851429513&fileId=310327",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM4NTE0Mjk1MTMmZmlsZUlkPTMxMDMyNyZfPUw2cWV4UnQwTjM0V3BIWDdYb3NKNHJPTktmV1NTYWhJ%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTROVEUwTWprMU1UTW1abWxzWlVsa1BUTXhNRE15TnlaZlBVdzJjV1Y0VW5Rd1RqTTBWM0JJV0RkWWIzTktOSEpQVGt0bVYxTlRZV2hKfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.D4x5uxUVo2QsP%2Bj4NIR3Ub%2F4VxBHswPXtLTO9ON9BZI%3D"
+      },
+      {
+        "id": 310323,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743851429513&fileId=310323",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM4NTE0Mjk1MTMmZmlsZUlkPTMxMDMyMyZfPTNsVks1bHo5SVJtM2xCOU1GME9JbllicG9qMXJEanps%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTROVEUwTWprMU1UTW1abWxzWlVsa1BUTXhNRE15TXlaZlBUTnNWa3MxYkhvNVNWSnRNMnhDT1UxR01FOUpibGxpY0c5cU1YSkVhbnBzfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.hAI3rLesvHhRzdW8NZF4FtQVnBfdLq%2BlpTqj8N7FO7s%3D"
+      },
+      {
+        "id": 310325,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743851429513&fileId=310325",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM4NTE0Mjk1MTMmZmlsZUlkPTMxMDMyNSZfPWJQSjdJaVAzbW5mV0MwWmJaRktTZ2hScDQ2TmVocnpZ%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTROVEUwTWprMU1UTW1abWxzWlVsa1BUTXhNRE15TlNaZlBXSlFTamRKYVZBemJXNW1WME13V21KYVJrdFRaMmhTY0RRMlRtVm9jbnBafDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.0jUaaRCdKEIzwirHzsdV8wUj3KG1gHmepW89coDyogQ%3D"
+      },
+      {
+        "id": 310329,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743851429513&fileId=310329",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM4NTE0Mjk1MTMmZmlsZUlkPTMxMDMyOSZfPWtmWDcycDVVMWYzSzlITUM1Y2lmYkRWSUNkRDU0dGRp%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTROVEUwTWprMU1UTW1abWxzWlVsa1BUTXhNRE15T1NaZlBXdG1XRGN5Y0RWVk1XWXpTemxJVFVNMVkybG1Za1JXU1VOa1JEVTBkR1JwfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.U8C7Xco6iY0sxPnKbaZOZseElxcu0%2B9%2FigHVYSa5pmM%3D"
+      }
+    ]
+  },
+  "ufCrm37_1743851473337": {
+    "title": "Рейсов к оплате",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 4
+  },
+  "ufCrm37_1743851496750": {
+    "title": "Сумма к оплате",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 400000
+  },
+  "ufCrm37_1743853184008": {
+    "title": "Маршрут",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Астана-Караганда"
+  },
+  "ufCrm37_1743853529": {
+    "title": "Карточка затрат на перевозку (Заявка на оплату перевозки ГП)",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y"
+    },
+    "items": [],
+    "value": "151"
+  },
+  "ufCrm37_1743854190292": {
+    "title": "Статус",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1363",
+        "VALUE": "Создана"
+      },
+      {
+        "ID": "1377",
+        "VALUE": "Согласование"
+      },
+      {
+        "ID": "1365",
+        "VALUE": "Отправлена в оплату"
+      },
+      {
+        "ID": "1367",
+        "VALUE": "Оплачена"
+      },
+      {
+        "ID": "1369",
+        "VALUE": "Отклонена"
+      }
+    ],
+    "value": 1367,
+    "titleValue": "Оплачена"
+  },
+  "ufCrm37_1743854294098": {
+    "title": "Оригинальное название",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Астана-Караганда"
+  },
+  "ufCrm37_1743867961": {
+    "title": "Тип НДС",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Без НДС"
+  },
+  "ufCrm37_1743949957614": {
+    "title": "Заявка на оплату перевозчику",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 310337,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1098&id=283&fieldName=UF_CRM_37_1743949957614&fileId=310337",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMDk4JmlkPTI4MyZmaWVsZE5hbWU9VUZfQ1JNXzM3XzE3NDM5NDk5NTc2MTQmZmlsZUlkPTMxMDMzNyZfPW93TmdRRnNWdU5IdFV3SDlxOExyUjBocXNVeTZRUTRk%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNRGs0Sm1sa1BUSTRNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5Yek0zWHpFM05ETTVORGs1TlRjMk1UUW1abWxzWlVsa1BUTXhNRE16TnlaZlBXOTNUbWRSUm5OV2RVNUlkRlYzU0RseE9FeHlVakJvY1hOVmVUWlJVVFJrfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.cJKrR6nn0sabXB%2B6MYmcC1oEr%2FP5tGm6OYQN78qHeTw%3D"
+    }
+  },
+  "ufCrm37_1743954797744": {
+    "title": "Плательщик",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1413",
+        "VALUE": "ТД Аверс"
+      },
+      {
+        "ID": "1415",
+        "VALUE": "ТД Asyl Qala"
+      },
+      {
+        "ID": "1417",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "1419",
+        "VALUE": "Paving Stone Company"
+      }
+    ],
+    "value": 1415,
+    "titleValue": "ТД Asyl Qala"
+  },
+  "ufCrm37_1745767424633": {
+    "title": "Тип оплаты",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2225",
+        "VALUE": "Предоплата"
+      },
+      {
+        "ID": "2227",
+        "VALUE": "Оплата по факту"
+      }
+    ],
+    "value": 2227,
+    "titleValue": "Оплата по факту"
+  },
+  "assignedById": 2071,
+  "isRecurring": "N",
+  "lastActivityBy": 2719,
+  "lastActivityTime": "2025-06-30T16:04:46+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 11823,
+  "parentId1078": 285,
+  "parentId1084": 5,
+  "parentId1088": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1098
+}

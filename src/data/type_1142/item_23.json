@@ -1,0 +1,91 @@
+{
+  "id": 23,
+  "xmlId": "",
+  "title": "Промежуточная комиссия: пр. Достык от ТД Аверс",
+  "createdBy": 1797,
+  "updatedBy": 1797,
+  "movedBy": 1,
+  "createdTime": "2025-10-01T08:26:03+03:00",
+  "updatedTime": "2025-10-01T08:26:03+03:00",
+  "movedTime": "2025-10-01T08:26:02+03:00",
+  "categoryId": 69,
+  "opened": "Y",
+  "previousStageId": "",
+  "begindate": "2025-10-01T03:00:00+03:00",
+  "closedate": "2025-10-08T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm57_1745496803800": {
+    "title": "Доля закрытия сделки",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 50
+  },
+  "ufCrm57_1745496819691": {
+    "title": "Дата согласования",
+    "type": "date",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-10-01T03:00:00+03:00"
+  },
+  "ufCrm57_1745496831131": {
+    "title": "Сумма комиссии",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 1072469.97
+  },
+  "assignedById": 1797,
+  "isRecurring": "N",
+  "lastActivityBy": 1797,
+  "lastActivityTime": "2025-10-01T08:26:03+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 12493,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1142
+}

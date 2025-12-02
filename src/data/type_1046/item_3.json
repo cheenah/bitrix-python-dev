@@ -1,0 +1,265 @@
+{
+  "id": 3,
+  "xmlId": "",
+  "title": "ИП Аверс/3",
+  "createdBy": 2569,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-02-27T09:37:29+03:00",
+  "updatedTime": "2025-03-11T02:50:00+03:00",
+  "movedTime": "2025-03-11T02:50:00+03:00",
+  "categoryId": 21,
+  "opened": "N",
+  "stageId": "DT1046_21:UC_7ZVMIR",
+  "previousStageId": "DT1046_21:UC_RNF2Z1",
+  "begindate": "2025-02-27T03:00:00+03:00",
+  "closedate": "2025-03-06T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm13_1740604116334": {
+    "title": "Желательный срок поставки",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-03-27T03:00:00+03:00"
+  },
+  "ufCrm13_1740604209582": {
+    "title": "На какую компанию покупаем",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "DIALOG",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "699",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "701",
+        "VALUE": "KINETIC"
+      },
+      {
+        "ID": "703",
+        "VALUE": "Paving Stone Company"
+      },
+      {
+        "ID": "705",
+        "VALUE": "USTROY.KZ"
+      },
+      {
+        "ID": "707",
+        "VALUE": "Аверс Бетон"
+      },
+      {
+        "ID": "709",
+        "VALUE": "ИП Аверс"
+      },
+      {
+        "ID": "711",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "713",
+        "VALUE": "Торговый дом Аверс"
+      }
+    ],
+    "value": 709,
+    "titleValue": "ИП Аверс"
+  },
+  "ufCrm13_1740604787362": {
+    "title": "Техническая документация",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm13_1740604863983": {
+    "title": "Производственная база",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "715",
+        "VALUE": "ПП1"
+      },
+      {
+        "ID": "717",
+        "VALUE": "ПП2"
+      },
+      {
+        "ID": "719",
+        "VALUE": "ПП3"
+      },
+      {
+        "ID": "721",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 715,
+    "titleValue": "ПП1"
+  },
+  "ufCrm13_1740604876135": {
+    "title": " Адрес доставки",
+    "type": "address",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SHOW_MAP": "Y"
+    },
+    "items": [],
+    "value": "Астана, Казахстан|51.1282205;71.4306682|6517"
+  },
+  "ufCrm13_1740604970429": {
+    "title": "Центр затрат (1С)",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "723",
+        "VALUE": "Автотранспортный цех 000000013"
+      },
+      {
+        "ID": "725",
+        "VALUE": "Автотранспортный цех (спецтехника) 000000023"
+      },
+      {
+        "ID": "727",
+        "VALUE": "Администрация ASYL QALA 000000024"
+      },
+      {
+        "ID": "729",
+        "VALUE": "Администрация KINETIC 000000030"
+      }
+    ],
+    "value": 723,
+    "titleValue": "Автотранспортный цех 000000013"
+  },
+  "ufCrm13_1740605029077": {
+    "title": "Направление затрат (1С)",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "731",
+        "VALUE": "Административные расходы"
+      },
+      {
+        "ID": "733",
+        "VALUE": "Взносы в кассу"
+      },
+      {
+        "ID": "735",
+        "VALUE": "Взносы и отчисления на мед.страхование"
+      },
+      {
+        "ID": "737",
+        "VALUE": "Возврат денежных средств покупателю"
+      },
+      {
+        "ID": "739",
+        "VALUE": "Возврат оплаты"
+      }
+    ],
+    "value": 731,
+    "titleValue": "Административные расходы"
+  },
+  "ufCrm13_1741644308327": {
+    "title": "ID спецификаций на согласование (тех.)",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": [
+      71,
+      73,
+      75
+    ]
+  },
+  "ufCrm13_1748950328": {
+    "title": "Центр затрат ТЕСТ",
+    "type": "rest_115_awzdepfields",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-02-27T09:37:29+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1032": 3,
+  "parentId1038": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1046
+}

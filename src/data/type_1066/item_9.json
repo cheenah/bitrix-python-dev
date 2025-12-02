@@ -1,0 +1,257 @@
+{
+  "id": 9,
+  "xmlId": "",
+  "title": "НАСОС C 19.71/4\" CODE:84138100",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-05-20T01:14:07+03:00",
+  "updatedTime": "2025-05-20T01:14:07+03:00",
+  "movedTime": "2025-05-20T01:14:07+03:00",
+  "categoryId": 31,
+  "opened": "Y",
+  "stageId": "DT1066_31:NEW",
+  "previousStageId": "",
+  "begindate": "2025-05-20T03:00:00+03:00",
+  "closedate": "2025-05-27T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm23_1741650046671": {
+    "title": "Сроки поставки",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm23_1741650256033": {
+    "title": "С какой компании проводить оплату",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "DIALOG",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "773",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "775",
+        "VALUE": "KINETIC"
+      },
+      {
+        "ID": "777",
+        "VALUE": "Paving Stone Company"
+      },
+      {
+        "ID": "779",
+        "VALUE": "USTROY.KZ"
+      },
+      {
+        "ID": "781",
+        "VALUE": "Аверс Бетон"
+      },
+      {
+        "ID": "783",
+        "VALUE": "ИП Аверс"
+      },
+      {
+        "ID": "785",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "787",
+        "VALUE": "Торговый дом Аверс"
+      }
+    ],
+    "value": 781,
+    "titleValue": "Аверс Бетон"
+  },
+  "ufCrm23_1741650274952": {
+    "title": "Адрес доставки",
+    "type": "address",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SHOW_MAP": "Y"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm23_1741650320936": {
+    "title": "Производственная база",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "789",
+        "VALUE": "ПП1"
+      },
+      {
+        "ID": "791",
+        "VALUE": "ПП2"
+      },
+      {
+        "ID": "793",
+        "VALUE": "ПП3"
+      },
+      {
+        "ID": "795",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 791,
+    "titleValue": "ПП2"
+  },
+  "ufCrm23_1741650379796": {
+    "title": "Направление затрат",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "797",
+        "VALUE": "Административные расходы"
+      },
+      {
+        "ID": "799",
+        "VALUE": "Взносы в кассу"
+      },
+      {
+        "ID": "801",
+        "VALUE": "Взносы и отчисления на мед.страхование"
+      },
+      {
+        "ID": "803",
+        "VALUE": "Возврат денежных средств покупателю"
+      },
+      {
+        "ID": "805",
+        "VALUE": "Возврат оплаты"
+      }
+    ],
+    "value": 799,
+    "titleValue": "Взносы в кассу"
+  },
+  "ufCrm23_1743666348253": {
+    "title": "Тема письма",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm23_1743666401479": {
+    "title": "Текст подписи",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 3,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm23_1743666559101": {
+    "title": "Подпись отправителя",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 4,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm23_1743666672138": {
+    "title": "Шаблон письма",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1135",
+        "VALUE": "1"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 0,
+  "lastActivityTime": "2025-05-20T01:14:07+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1038": 3,
+  "parentId1042": 81,
+  "parentId1046": 5,
+  "parentId1074": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1066
+}

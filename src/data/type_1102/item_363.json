@@ -1,0 +1,380 @@
+{
+  "id": 363,
+  "xmlId": "",
+  "title": "Карточка комиссий: Частный дом 260 кв.м.",
+  "createdBy": 2233,
+  "updatedBy": 0,
+  "movedBy": 2233,
+  "createdTime": "2025-06-04T13:59:22+03:00",
+  "updatedTime": "2025-07-30T21:10:10+03:00",
+  "movedTime": "2025-06-04T13:59:22+03:00",
+  "categoryId": 51,
+  "opened": "N",
+  "previousStageId": "",
+  "begindate": "2025-06-04T03:00:00+03:00",
+  "closedate": "2025-06-11T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm39_1744637106185": {
+    "title": "Сумма сделки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm39_1744637148026": {
+    "title": "Реализация товаров",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2105429.62
+  },
+  "ufCrm39_1744637167495": {
+    "title": "Услуги по доставке",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 178571.44
+  },
+  "ufCrm39_1744637190659": {
+    "title": "Реализация поддонов",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 81250
+  },
+  "ufCrm39_1744637245507": {
+    "title": "Затраты на доставку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm39_1744637312260": {
+    "title": "Затраты на проектирование",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm39_1744637327130": {
+    "title": "Затраты на образцы",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm39_1744637350206": {
+    "title": "Иные затраты по реализации",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm39_1744656145552": {
+    "title": "Чистая реализация",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2284001.06
+  },
+  "ufCrm39_1744657634483": {
+    "title": "Ставка для товаров",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 3,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0.025
+  },
+  "ufCrm39_1744657752557": {
+    "title": "Чистая реализация товаров",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2105429.62
+  },
+  "ufCrm39_1744657777188": {
+    "title": "Чистая выручка доставка",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 178571.44
+  },
+  "ufCrm39_1744658108161": {
+    "title": "Комиссия товары",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 52635.74
+  },
+  "ufCrm39_1744658124099": {
+    "title": "Комиссия доставка",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 892.86
+  },
+  "ufCrm39_1744658157426": {
+    "title": "Ставка для услуг",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 3,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0.005
+  },
+  "ufCrm39_1744658897708": {
+    "title": "Итого комиссия",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 53528.6
+  },
+  "ufCrm39_1744659030649": {
+    "title": "Дата завершения сделки",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-06-04T03:00:00+03:00"
+  },
+  "ufCrm39_1745591690371": {
+    "title": "Сумма промежуточных комиссий",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm39_1753637760789": {
+    "title": "Передана в оплату",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": {
+        "ru": "Передана в оплату",
+        "br": "Передана в оплату",
+        "vn": "Передана в оплату",
+        "ua": "Передана в оплату",
+        "tr": "Передана в оплату",
+        "th": "Передана в оплату",
+        "tc": "Передана в оплату",
+        "sc": "Передана в оплату",
+        "pl": "Передана в оплату",
+        "ms": "Передана в оплату",
+        "la": "Передана в оплату",
+        "ja": "Передана в оплату",
+        "it": "Передана в оплату",
+        "in": "Передана в оплату",
+        "id": "Передана в оплату",
+        "hi": "Передана в оплату",
+        "fr": "Передана в оплату",
+        "en": "Передана в оплату",
+        "de": "Передана в оплату",
+        "kz": "Передана в оплату",
+        "ar": "Передана в оплату"
+      }
+    },
+    "items": [],
+    "value": "Y"
+  },
+  "ufCrm39_1753639639": {
+    "title": "Клиент",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "COMPANY": "Y",
+      "LEAD": null
+    },
+    "items": [],
+    "value": "4467"
+  },
+  "ufCrm39_1760361794388": {
+    "title": "Дата передачи в оплату",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "assignedById": 2233,
+  "isRecurring": "N",
+  "lastActivityBy": 2233,
+  "lastActivityTime": "2025-06-04T13:59:22+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 10943,
+  "parentId1088": null,
+  "parentId1116": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1102
+}

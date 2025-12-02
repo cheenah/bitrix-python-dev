@@ -1,0 +1,286 @@
+{
+  "id": 7,
+  "xmlId": "",
+  "title": "Группа закупок #7",
+  "createdBy": 2321,
+  "updatedBy": 0,
+  "movedBy": 2321,
+  "createdTime": "2025-03-18T09:58:40+03:00",
+  "updatedTime": "2025-03-18T09:58:40+03:00",
+  "movedTime": "2025-03-18T09:58:40+03:00",
+  "categoryId": 17,
+  "opened": "N",
+  "stageId": "DT1038_17:NEW",
+  "previousStageId": "",
+  "begindate": "2025-03-18T03:00:00+03:00",
+  "closedate": "2025-03-25T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm9_1735199380": {
+    "title": "Закупщик",
+    "type": "employee",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": 2377
+  },
+  "ufCrm9_1735199584": {
+    "title": "Член тендерной комиссии",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200195": {
+    "title": "Срок предоставления данных поставщиком (дн.)",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200256": {
+    "title": "Как часто напоминать (мессенджер) (ч.)",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200330": {
+    "title": "Как часто напоминать (почта) (ч.)",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200374": {
+    "title": "Как часто напоминать (звонки) (ч.)",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200407": {
+    "title": "Как скоро напоминать сотрудникам отдела ВЭД",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735200425": {
+    "title": "Как скоро напоминать юристам",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1735289773": {
+    "title": "Время актуальности запроса цен (дн.)",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm9_1740605738": {
+    "title": "Пул поставщиков",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "COMPANY": "Y",
+      "LEAD": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm9_1740606073981": {
+    "title": "Категория",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm9_1740725450471": {
+    "title": "ПП1",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "751",
+        "VALUE": "Да"
+      },
+      {
+        "ID": "753",
+        "VALUE": "Нет"
+      }
+    ],
+    "value": 751,
+    "titleValue": "Да"
+  },
+  "ufCrm9_1740725468687": {
+    "title": "ПП2",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "755",
+        "VALUE": "Да"
+      },
+      {
+        "ID": "757",
+        "VALUE": "Нет"
+      }
+    ],
+    "value": 755,
+    "titleValue": "Да"
+  },
+  "ufCrm9_1741256327761": {
+    "title": "ПП3",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "769",
+        "VALUE": "Да"
+      },
+      {
+        "ID": "771",
+        "VALUE": "Нет"
+      }
+    ],
+    "value": 769,
+    "titleValue": "Да"
+  },
+  "ufCrm9_1741645877468": {
+    "title": "ID товара (тех.)",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": [
+      40781
+    ]
+  },
+  "assignedById": 2321,
+  "isRecurring": "N",
+  "lastActivityBy": 2321,
+  "lastActivityTime": "2025-03-18T09:58:40+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1054": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1038
+}

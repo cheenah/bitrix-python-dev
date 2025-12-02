@@ -1,0 +1,7 @@
+flask
+requests
+pandas
+pyarrow
+google-cloud-storage
+gunicorn
+google-cloud-secret-manager

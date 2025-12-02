@@ -1,0 +1,182 @@
+{
+  "id": 41,
+  "xmlId": "",
+  "title": "Карточка бонусов за перевозку: Паритет плюс",
+  "createdBy": 2065,
+  "updatedBy": 0,
+  "movedBy": 1,
+  "createdTime": "2025-06-10T11:25:24+03:00",
+  "updatedTime": "2025-06-27T17:07:06+03:00",
+  "movedTime": "2025-06-10T11:25:24+03:00",
+  "categoryId": 73,
+  "opened": "Y",
+  "previousStageId": "",
+  "begindate": "2025-06-10T03:00:00+03:00",
+  "closedate": "2025-06-17T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm61_1745650733132": {
+    "title": "Плановая сумма товары",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 1570320
+  },
+  "ufCrm61_1745650772362": {
+    "title": "Фактическая сумма товары",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 1570320
+  },
+  "ufCrm61_1745650794920": {
+    "title": "Ставка бонуса",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0.1
+  },
+  "ufCrm61_1745650825622": {
+    "title": "Бюджет сделки на перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 201600
+  },
+  "ufCrm61_1745650843659": {
+    "title": "Фактические затраты за перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 224000
+  },
+  "ufCrm61_1745650896300": {
+    "title": "Скоректированный бюджет перевозки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 201600
+  },
+  "ufCrm61_1745650916680": {
+    "title": "Экономия перевозки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm61_1745650932470": {
+    "title": "Сумма бонуса за перевозку",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm61_1745650954265": {
+    "title": "Дата расчета",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-06-27T03:00:00+03:00"
+  },
+  "assignedById": 1,
+  "isRecurring": "N",
+  "lastActivityBy": 2065,
+  "lastActivityTime": "2025-06-10T11:25:24+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 10183,
+  "parentId1088": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1152
+}

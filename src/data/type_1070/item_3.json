@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "xmlId": "",
+  "title": "TOO Инжиниринг Строй Проект",
+  "createdBy": 2569,
+  "updatedBy": 2569,
+  "movedBy": 2569,
+  "createdTime": "2025-03-12T13:23:28+03:00",
+  "updatedTime": "2025-03-12T13:25:16+03:00",
+  "movedTime": "2025-03-12T13:23:28+03:00",
+  "categoryId": 37,
+  "opened": "N",
+  "previousStageId": "",
+  "begindate": "2025-03-12T03:00:00+03:00",
+  "closedate": "2025-03-19T03:00:00+03:00",
+  "companyId": 4025,
+  "contactId": 0,
+  "opportunity": 29860,
+  "isManualOpportunity": "N",
+  "taxValue": 3199.28,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm25_1740727556860": {
+    "title": "Источник добавления",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "759",
+        "VALUE": "CRM-форма"
+      },
+      {
+        "ID": "761",
+        "VALUE": "УНФ (история закупки)"
+      },
+      {
+        "ID": "763",
+        "VALUE": "Вручную"
+      }
+    ],
+    "value": 761,
+    "titleValue": "УНФ (история закупки)"
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-03-12T13:23:28+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1038": 3,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1070
+}

@@ -1,0 +1,174 @@
+{
+  "id": 3,
+  "xmlId": "",
+  "title": "Заполнение CRM-формы \"Новый поставщик\"",
+  "createdBy": 2569,
+  "updatedBy": 2569,
+  "movedBy": 2569,
+  "createdTime": "2025-02-27T01:33:45+03:00",
+  "updatedTime": "2025-02-27T01:33:45+03:00",
+  "movedTime": "2025-02-27T01:33:45+03:00",
+  "categoryId": 27,
+  "opened": "N",
+  "stageId": "DT1058_27:NEW",
+  "previousStageId": "",
+  "begindate": "2025-02-27T03:00:00+03:00",
+  "closedate": "2025-03-06T03:00:00+03:00",
+  "companyId": 4073,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "WEBFORM",
+  "sourceDescription": "",
+  "webformId": 67,
+  "ufCrm19_1740608480565": {
+    "title": "Доставка",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "741",
+        "VALUE": "Да (платно)"
+      },
+      {
+        "ID": "743",
+        "VALUE": "Да (бесплатно)"
+      },
+      {
+        "ID": "745",
+        "VALUE": "Самовывоз"
+      }
+    ],
+    "value": 745,
+    "titleValue": "Самовывоз"
+  },
+  "ufCrm19_1740608494975": {
+    "title": "Адрес самовывоза",
+    "type": "address",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SHOW_MAP": "Y"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm19_1740608960879": {
+    "title": "Адрес отгрузки",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Астана"
+  },
+  "ufCrm19_1740608997790": {
+    "title": "График работы",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "9-18, пн-пт"
+  },
+  "ufCrm19_1747217889660": {
+    "title": "Категория",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2337",
+        "VALUE": "ГЕНЕРАТОР"
+      },
+      {
+        "ID": "2339",
+        "VALUE": "РАСТВОРЫ СТРОИТЕЛЬНЫЕ"
+      },
+      {
+        "ID": "2341",
+        "VALUE": "АВТОЗАПЧАСТИ"
+      }
+    ],
+    "value": [],
+    "titles": []
+  },
+  "ufCrm19_1747218570": {
+    "title": "Группы закупок для пула",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "DYNAMIC_1038": "Y",
+      "LEAD": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm19_1747218673075": {
+    "title": "Причина отказа",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": null
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-02-27T01:33:45+03:00",
+  "lastCommunicationTime": "2025-02-27T01:33:45+03:00",
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1058
+}

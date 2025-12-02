@@ -1,0 +1,494 @@
+{
+  "id": 957,
+  "xmlId": "",
+  "title": "Астана-Алматы, ИП Asia Trans, 2 машины по 350 000 тенге",
+  "createdBy": 1799,
+  "updatedBy": 0,
+  "movedBy": 1,
+  "createdTime": "2025-10-15T14:27:16+03:00",
+  "updatedTime": "2025-10-20T10:46:09+03:00",
+  "movedTime": "2025-10-15T14:48:37+03:00",
+  "categoryId": 41,
+  "opened": "N",
+  "stageId": "DT1078_41:1",
+  "previousStageId": "DT1078_41:CLIENT",
+  "begindate": "2025-10-15T03:00:00+03:00",
+  "closedate": "2025-10-22T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm29_1743445764631": {
+    "title": "Маршрут",
+    "type": "string",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Астана-Алматы"
+  },
+  "ufCrm29_1743445819778": {
+    "title": "Тип перевозки",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "909",
+        "VALUE": "Авто"
+      },
+      {
+        "ID": "911",
+        "VALUE": "ЖД"
+      }
+    ],
+    "value": 909,
+    "titleValue": "Авто"
+  },
+  "ufCrm29_1743445845": {
+    "title": "Количество единиц",
+    "type": "integer",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2
+  },
+  "ufCrm29_1743445936890": {
+    "title": "Погрузка",
+    "type": "string",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "ПП2"
+  },
+  "ufCrm29_1743446428": {
+    "title": "Грузополучатель",
+    "type": "string",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "KDC Construction (перемещение на склад в Алматы)"
+  },
+  "ufCrm29_1743446528": {
+    "title": "Ставка за единицу",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 350000
+  },
+  "ufCrm29_1743446557": {
+    "title": "Тип НДС",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "913",
+        "VALUE": "НДС 12%"
+      },
+      {
+        "ID": "915",
+        "VALUE": "Без НДС"
+      }
+    ],
+    "value": 915,
+    "titleValue": "Без НДС"
+  },
+  "ufCrm29_1743446602": {
+    "title": "Сумма заявки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 700000
+  },
+  "ufCrm29_1743446665": {
+    "title": "Бюджет на единицу с НДС",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 350000
+  },
+  "ufCrm29_1743583132": {
+    "title": "Отклонение от бюджета",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "0%"
+  },
+  "ufCrm29_1743599113734": {
+    "title": "Рейсов отправлено в оплату",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2
+  },
+  "ufCrm29_1743602130125": {
+    "title": "Согласованная стоимость рейса",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 350000
+  },
+  "ufCrm29_1743602441606": {
+    "title": "Согласованный налог",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Без НДС"
+  },
+  "ufCrm29_1743603020409": {
+    "title": "Согласовано рейсов",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 2
+  },
+  "ufCrm29_1743671985": {
+    "title": "Карточка затрат на перевозку",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DYNAMIC_1088": "Y",
+      "LEAD": null
+    },
+    "items": [],
+    "value": "281"
+  },
+  "ufCrm29_1743704273613": {
+    "title": "Статус заявки",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1137",
+        "VALUE": "Новая"
+      },
+      {
+        "ID": "1375",
+        "VALUE": "Согласование"
+      },
+      {
+        "ID": "1139",
+        "VALUE": "Согласована"
+      },
+      {
+        "ID": "1141",
+        "VALUE": "Отклонена"
+      },
+      {
+        "ID": "1143",
+        "VALUE": "Завершена"
+      }
+    ],
+    "value": 1139,
+    "titleValue": "Согласована"
+  },
+  "ufCrm29_1743704672623": {
+    "title": "Оригинальное название",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Астана-Алматы, ИП Asia Trans, 2 машины по 350 000 тенге"
+  },
+  "ufCrm29_1743847262486": {
+    "title": "Сумма привязанных оплат",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": [
+      700000
+    ]
+  },
+  "ufCrm29_1743881537": {
+    "title": "Последняя стадия",
+    "type": "crm_status",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "ENTITY_TYPE": "DYNAMIC_1078_STAGE_41"
+    },
+    "items": [],
+    "value": "DT1078_41:NEW"
+  },
+  "ufCrm29_1743924572927": {
+    "title": "Привязанные заявки на оплату",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": [
+      1021
+    ]
+  },
+  "ufCrm29_1745258804071": {
+    "title": "Обрешетка вагона",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm29_1745258825273": {
+    "title": "Услуги АЖДХ",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm29_1745258856081": {
+    "title": "Услуги Атасу",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm29_1745258948064": {
+    "title": "Терминальная обработка",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2187",
+        "VALUE": "Терминал в Алматы"
+      },
+      {
+        "ID": "2189",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 2189,
+    "titleValue": "Другое"
+  },
+  "ufCrm29_1745261975903": {
+    "title": "Общие затраты по заявке",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 784000
+  },
+  "ufCrm_1651555497724": {
+    "title": "Комментарий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Токтамуратулы А, Жумайкан"
+  },
+  "assignedById": 1799,
+  "isRecurring": "N",
+  "lastActivityBy": 1,
+  "lastActivityTime": "2025-10-15T14:48:37+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 13535,
+  "parentId1084": 79,
+  "parentId1088": 281,
+  "parentId1098": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1078
+}

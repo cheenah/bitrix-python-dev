@@ -1,0 +1,323 @@
+{
+  "id": 1,
+  "xmlId": "",
+  "title": "Парк первого президента строительство",
+  "createdBy": 2757,
+  "updatedBy": 1,
+  "movedBy": 2757,
+  "createdTime": "2025-05-11T17:59:05+03:00",
+  "updatedTime": "2025-05-11T18:03:46+03:00",
+  "movedTime": "2025-05-11T18:02:49+03:00",
+  "categoryId": 81,
+  "opened": "N",
+  "stageId": "DT1168_81:CLIENT",
+  "previousStageId": "DT1168_81:PREPARATION",
+  "begindate": "2025-05-11T03:00:00+03:00",
+  "closedate": "2025-05-18T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm69_1746974342689": {
+    "title": "Бренд",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2291",
+        "VALUE": "Аверс"
+      },
+      {
+        "ID": "2293",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "2295",
+        "VALUE": "Ustroy.kz"
+      }
+    ],
+    "value": 2291,
+    "titleValue": "Аверс"
+  },
+  "ufCrm69_1746974390": {
+    "title": "Тип публикации",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2297",
+        "VALUE": "Готовый объект"
+      },
+      {
+        "ID": "2299",
+        "VALUE": "Изделия"
+      },
+      {
+        "ID": "2301",
+        "VALUE": "Проектирование"
+      },
+      {
+        "ID": "2303",
+        "VALUE": "Строительство"
+      },
+      {
+        "ID": "2305",
+        "VALUE": "Поздравления"
+      },
+      {
+        "ID": "2307",
+        "VALUE": "Развлекательные"
+      },
+      {
+        "ID": "2309",
+        "VALUE": "Интерактив"
+      },
+      {
+        "ID": "2311",
+        "VALUE": "Технология укладки"
+      },
+      {
+        "ID": "2313",
+        "VALUE": "Отзыв"
+      },
+      {
+        "ID": "2315",
+        "VALUE": "О заводе"
+      },
+      {
+        "ID": "2317",
+        "VALUE": "Часто задаваемые вопросы"
+      },
+      {
+        "ID": "2319",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 2303,
+    "titleValue": "Строительство"
+  },
+  "ufCrm69_1746974678": {
+    "title": "Тип контента",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": true,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2321",
+        "VALUE": "Фото"
+      },
+      {
+        "ID": "2323",
+        "VALUE": "Видео"
+      }
+    ],
+    "value": [
+      "2321"
+    ],
+    "titles": [
+      "Фото"
+    ]
+  },
+  "ufCrm69_1746974722": {
+    "title": "Каналы",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": true,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2325",
+        "VALUE": "Instagram"
+      },
+      {
+        "ID": "2327",
+        "VALUE": "Facebook"
+      },
+      {
+        "ID": "2329",
+        "VALUE": "Telegram"
+      },
+      {
+        "ID": "2331",
+        "VALUE": "Сайт"
+      }
+    ],
+    "value": [
+      "2325",
+      "2327"
+    ],
+    "titles": [
+      "Instagram",
+      "Facebook"
+    ]
+  },
+  "ufCrm69_1746974780": {
+    "title": "Описание и детали",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 10,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Парк около музея первого президента"
+  },
+  "ufCrm69_1746974821": {
+    "title": "Текст публикации (рус)",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 15,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "Классный новый проект"
+  },
+  "ufCrm69_1746974859": {
+    "title": "Текст публикации (каз)",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 15,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm69_1746974887": {
+    "title": "Продвижение",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2333",
+        "VALUE": "Не продвигать"
+      },
+      {
+        "ID": "2335",
+        "VALUE": "Продвигать"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm69_1746974939": {
+    "title": "Бюджет продвижения",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm69_1746974966": {
+    "title": "Дата публикации",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm69_1746975626812": {
+    "title": "Файлы",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": []
+  },
+  "assignedById": 2757,
+  "isRecurring": "N",
+  "lastActivityBy": 1,
+  "lastActivityTime": "2025-05-11T18:03:46+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1168
+}

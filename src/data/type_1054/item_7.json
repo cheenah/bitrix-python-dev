@@ -1,0 +1,196 @@
+{
+  "id": 7,
+  "xmlId": "",
+  "title": "Тендерная комиссия #7",
+  "createdBy": 2569,
+  "updatedBy": 2569,
+  "movedBy": 2569,
+  "createdTime": "2025-03-12T15:14:39+03:00",
+  "updatedTime": "2025-03-18T15:16:19+03:00",
+  "movedTime": "2025-03-12T15:14:39+03:00",
+  "categoryId": 25,
+  "opened": "N",
+  "previousStageId": "",
+  "begindate": "2025-03-12T03:00:00+03:00",
+  "closedate": "2025-03-19T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm17_1735308218": {
+    "title": "Согласует спецификацию",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "N"
+    },
+    "items": [
+      {
+        "ID": "501",
+        "VALUE": "нет"
+      },
+      {
+        "ID": "503",
+        "VALUE": "да"
+      }
+    ],
+    "value": 503,
+    "titleValue": "да"
+  },
+  "ufCrm17_1735308319": {
+    "title": "Вес голоса",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 1
+  },
+  "ufCrm17_1735308761": {
+    "title": "Организация",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "505",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "507",
+        "VALUE": "KINETIC"
+      },
+      {
+        "ID": "509",
+        "VALUE": "Paving Stone Company"
+      },
+      {
+        "ID": "511",
+        "VALUE": "USTROY.KZ"
+      },
+      {
+        "ID": "513",
+        "VALUE": "Аверс Бетон"
+      },
+      {
+        "ID": "515",
+        "VALUE": "ИП Аверс"
+      },
+      {
+        "ID": "517",
+        "VALUE": "Тал Инженеринг Казахстан"
+      },
+      {
+        "ID": "519",
+        "VALUE": "Торговый дом Аверс"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm17_1740642958641": {
+    "title": "Производственная база",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": true,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "747",
+        "VALUE": "ПП1"
+      },
+      {
+        "ID": "749",
+        "VALUE": "ПП2"
+      },
+      {
+        "ID": "765",
+        "VALUE": "ПП3"
+      },
+      {
+        "ID": "767",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": [
+      "765",
+      "747"
+    ],
+    "titles": [
+      "ПП3",
+      "ПП1"
+    ]
+  },
+  "ufCrm17_1742300153861": {
+    "title": "Участвует в тендерной комиссии ",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "833",
+        "VALUE": "Да"
+      },
+      {
+        "ID": "835",
+        "VALUE": "Нет"
+      }
+    ],
+    "value": 833,
+    "titleValue": "Да"
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-03-12T15:14:39+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1038": 5,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1054
+}

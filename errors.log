@@ -1,0 +1,187 @@
+[2025-11-03 12:18:21,159] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1032}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:21,159] [ERROR] Failed to fetch field metadata for 1032: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:21,214] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1032, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:21,214] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:21,738] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1038}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:21,738] [ERROR] Failed to fetch field metadata for 1038: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:21,794] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1038, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:21,794] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:22,236] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1042}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:22,236] [ERROR] Failed to fetch field metadata for 1042: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:22,278] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1042, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:22,278] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:22,786] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1046}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:22,786] [ERROR] Failed to fetch field metadata for 1046: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:22,831] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1046, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:22,831] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:23,098] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1050}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:23,098] [ERROR] Failed to fetch field metadata for 1050: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:23,143] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1050, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:23,143] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:23,309] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1054}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:23,309] [ERROR] Failed to fetch field metadata for 1054: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:23,591] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1054, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:23,591] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:24,101] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1058}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:24,101] [ERROR] Failed to fetch field metadata for 1058: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:24,146] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1058, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:24,146] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:24,913] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1062}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:24,913] [ERROR] Failed to fetch field metadata for 1062: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+[2025-11-03 12:18:24,955] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1062, "select": ["*", "UF_*"]}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:24,955] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.list
+[2025-11-03 12:18:25,814] [ERROR] HTTP 403 for https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields
+Payload: {"entityTypeId": 1066}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-11-03 12:18:25,814] [ERROR] Failed to fetch field metadata for 1066: 403 Client Error: Forbidden for url: https://your.bitrix24.ru/rest/1/your_webhook/crm.item.fields

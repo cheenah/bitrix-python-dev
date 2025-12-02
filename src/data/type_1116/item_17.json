@@ -1,0 +1,169 @@
+{
+  "id": 17,
+  "xmlId": "",
+  "title": "KIIZ stone вместо колормиксов",
+  "createdBy": 1797,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-05-16T11:21:59+03:00",
+  "updatedTime": "2025-05-16T15:33:33+03:00",
+  "movedTime": "2025-05-16T15:33:33+03:00",
+  "categoryId": 57,
+  "opened": "N",
+  "stageId": "DT1116_57:SUCCESS",
+  "previousStageId": "DT1116_57:PREPARATION",
+  "begindate": "2025-05-16T03:00:00+03:00",
+  "closedate": "2025-05-23T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 1331.2,
+  "isManualOpportunity": "N",
+  "taxValue": 142.65,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm45_1744711143887": {
+    "title": "Комментарий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "отвезу по 1 камню для выбора цвета. KIIZ stone нет в ассортименте СРМ. выбрал колормиксы и вручную переписал названия."
+  },
+  "ufCrm45_1744711566313": {
+    "title": "Доставка",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1467",
+        "VALUE": "Доставка до объекта"
+      },
+      {
+        "ID": "1469",
+        "VALUE": "Самовывоз"
+      }
+    ],
+    "value": 1469,
+    "titleValue": "Самовывоз"
+  },
+  "ufCrm45_1744711743166": {
+    "title": "Статус",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1471",
+        "VALUE": "Создана"
+      },
+      {
+        "ID": "1477",
+        "VALUE": "Согласование"
+      },
+      {
+        "ID": "1473",
+        "VALUE": "Согласована"
+      },
+      {
+        "ID": "1475",
+        "VALUE": "Отклонена"
+      }
+    ],
+    "value": 1473,
+    "titleValue": "Согласована"
+  },
+  "ufCrm45_1744713532952": {
+    "title": "Затраты на доставку",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 0
+  },
+  "ufCrm45_1744790835316": {
+    "title": "Общие затраты",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 1331.2
+  },
+  "ufCrm45_1744791579048": {
+    "title": "Заявка на предоставление образцов",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 298951,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1116&id=17&fieldName=UF_CRM_45_1744791579048&fileId=298951",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTE2JmlkPTE3JmZpZWxkTmFtZT1VRl9DUk1fNDVfMTc0NDc5MTU3OTA0OCZmaWxlSWQ9Mjk4OTUxJl89V0RYZzZHUVlQRTRPNXg0NmZhMlBiTmVkbTlTNUpGNFU%3D%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVEUySm1sa1BURTNKbVpwWld4a1RtRnRaVDFWUmw5RFVrMWZORFZmTVRjME5EYzVNVFUzT1RBME9DWm1hV3hsU1dROU1qazRPVFV4Smw4OVYwUllaelpIVVZsUVJUUlBOWGcwTm1aaE1sQmlUbVZrYlRsVE5VcEdORlU9fDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.OyJPkTC1B4xC8nQILf8MB5Tu8G%2F74FBm3791Y8ErbXQ%3D"
+    }
+  },
+  "assignedById": 1797,
+  "isRecurring": "N",
+  "lastActivityBy": 1797,
+  "lastActivityTime": "2025-05-16T11:21:59+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": 9977,
+  "parentId1102": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1116
+}

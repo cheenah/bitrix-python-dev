@@ -1,0 +1,253 @@
+{
+  "id": 15,
+  "xmlId": "",
+  "title": "Bozjyra",
+  "createdBy": 1189,
+  "updatedBy": 0,
+  "movedBy": 0,
+  "createdTime": "2025-10-30T15:42:46+03:00",
+  "updatedTime": "2025-10-31T07:55:13+03:00",
+  "movedTime": "2025-10-31T07:55:13+03:00",
+  "categoryId": 85,
+  "opened": "N",
+  "stageId": "DT1184_85:CLIENT",
+  "previousStageId": "DT1184_85:NEW",
+  "begindate": "2025-10-30T03:00:00+03:00",
+  "closedate": "2025-11-06T03:00:00+03:00",
+  "companyId": 0,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm73_1760688562": {
+    "title": "Адрес",
+    "type": "string",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "пересечение улиц Туран и Улы дала"
+  },
+  "ufCrm73_1760688581": {
+    "title": "Площадь",
+    "type": "double",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 0,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 86
+  },
+  "ufCrm73_1760688597": {
+    "title": "Этаж",
+    "type": "integer",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 8
+  },
+  "ufCrm73_1760688626": {
+    "title": "Количество комнат",
+    "type": "integer",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 3
+  },
+  "ufCrm73_1760688642": {
+    "title": "Срок ввода в эксплуатацию",
+    "type": "string",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "2026"
+  },
+  "ufCrm73_1760688670": {
+    "title": "Статус",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2379",
+        "VALUE": "Строится"
+      },
+      {
+        "ID": "2381",
+        "VALUE": "Введен в эксплуатацию"
+      }
+    ],
+    "value": 2379,
+    "titleValue": "Строится"
+  },
+  "ufCrm73_1760688698": {
+    "title": "Цена приобретения",
+    "type": "integer",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 41700300
+  },
+  "ufCrm73_1760688709": {
+    "title": "Цена реализации",
+    "type": "integer",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": 38000000
+  },
+  "ufCrm73_1760688775": {
+    "title": "Договор",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y",
+      "DEFAULT_VIEW": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm73_1760688802": {
+    "title": "Сделка завершена",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrm73_1760692281519": {
+    "title": "Порядок реализации",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2383",
+        "VALUE": "За деньги"
+      },
+      {
+        "ID": "2385",
+        "VALUE": "Бартер"
+      },
+      {
+        "ID": "2387",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": 2383,
+    "titleValue": "За деньги"
+  },
+  "ufCrm73_1760692298671": {
+    "title": "Дополнительная информация",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "ждем поступление 40500000"
+  },
+  "assignedById": 1189,
+  "isRecurring": "N",
+  "lastActivityBy": 1189,
+  "lastActivityTime": "2025-10-30T15:42:46+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1184
+}

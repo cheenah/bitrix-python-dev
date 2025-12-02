@@ -1,0 +1,936 @@
+[2025-10-31 15:17:47,745] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 9}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Сделки не поддерживается (internal error)"}
+[2025-10-31 15:17:47,746] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:48,138] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 11}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:48,138] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:48,564] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 13}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Шаблон сделки не поддерживается (internal error)"}
+[2025-10-31 15:17:48,564] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:48,811] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 15}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:48,811] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:49,042] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 17}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Оплата не поддерживается (internal error)"}
+[2025-10-31 15:17:49,043] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:49,360] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 19}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:49,360] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:49,521] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 21}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:49,521] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:49,913] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 23}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:49,913] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:50,117] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 25}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:50,117] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:50,537] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 27}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:50,537] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:50,689] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 29}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:50,690] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:51,097] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 33}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:51,097] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:51,248] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 35}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:51,249] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:51,407] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 37}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:51,408] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:52,067] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 41}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:52,067] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:52,316] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 43}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:52,316] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:52,526] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 45}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:52,526] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:52,745] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 47}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:52,745] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,002] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 49}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,003] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,246] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 53}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,246] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,413] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 55}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,413] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,646] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 57}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,646] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,789] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 59}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,789] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:53,939] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 61}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:53,939] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:54,219] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 63}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:54,219] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:54,506] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 65}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:54,506] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:54,724] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 69}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:54,724] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:54,946] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 71}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:54,946] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 15:17:55,103] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 73}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 15:17:55,103] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:28,061] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 9}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Сделки не поддерживается (internal error)"}
+[2025-10-31 16:49:28,061] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:28,309] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 11}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:28,309] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:28,469] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 13}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Шаблон сделки не поддерживается (internal error)"}
+[2025-10-31 16:49:28,469] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:28,819] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 15}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:28,819] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:29,050] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 17}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Оплата не поддерживается (internal error)"}
+[2025-10-31 16:49:29,050] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:29,295] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 19}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:29,295] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:29,553] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 21}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:29,553] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:29,803] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 23}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:29,803] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:30,426] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 25}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:30,426] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:30,702] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 27}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:30,702] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:30,869] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 29}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:30,869] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:31,365] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 33}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:31,366] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:31,590] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 35}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:31,590] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:31,938] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 37}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:31,938] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:32,427] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 41}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:32,427] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:32,580] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 43}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:32,580] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:32,803] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 45}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:32,803] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:32,960] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 47}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:32,960] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:33,110] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 49}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:33,110] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:33,465] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 53}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:33,465] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:33,619] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 55}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:33,619] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:34,039] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 57}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:34,039] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:34,192] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 59}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:34,192] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:34,697] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 61}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:34,697] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:35,159] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 63}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:35,159] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:35,594] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 65}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:35,594] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:37,523] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 69}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:37,523] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:37,664] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 71}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:37,664] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 16:49:37,809] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 73}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 16:49:37,809] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:37,679] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 9}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Сделки не поддерживается (internal error)"}
+[2025-10-31 18:02:37,679] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:37,992] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 11}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:37,992] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:38,388] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 13}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Шаблон сделки не поддерживается (internal error)"}
+[2025-10-31 18:02:38,388] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:38,613] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 15}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:38,613] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:39,186] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 17}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Оплата не поддерживается (internal error)"}
+[2025-10-31 18:02:39,186] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:39,542] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 19}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:39,542] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:39,700] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 21}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:39,700] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:39,940] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 23}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:39,940] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:40,328] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 25}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:40,328] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:40,616] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 27}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:40,616] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:41,854] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 29}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:41,854] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:43,098] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 33}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:43,098] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:43,445] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 35}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:43,445] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:43,604] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 37}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:43,604] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:44,367] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 41}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:44,367] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:44,517] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 43}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:44,518] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:44,672] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 45}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:44,672] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:45,004] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 47}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:45,004] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:45,222] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 49}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:45,222] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:45,456] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 53}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:45,456] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:45,681] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 55}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:45,681] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:45,910] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 57}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:45,910] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:46,118] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 59}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:46,118] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:46,408] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 61}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:46,408] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:46,685] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 63}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:46,685] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:46,905] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 65}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:46,905] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:47,079] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 69}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:47,079] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:47,433] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 71}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:47,433] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:02:47,652] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 73}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:02:47,652] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:05:15,128] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1032}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,128] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,245] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1038}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,245] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,356] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1042}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,356] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,468] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1046}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,469] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,527] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1050}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,527] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,651] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1054}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,651] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,707] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1058}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,707] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,879] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1062}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,879] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,929] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1066}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,929] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:15,983] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1070}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:15,983] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,117] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1074}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,118] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,240] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1078}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,240] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,290] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1084}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,290] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,345] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1088}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,345] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,460] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1092}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,460] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,579] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1098}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,579] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,726] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1102}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,726] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:16,884] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1106}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:16,884] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,018] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1112}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,018] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,157] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1116}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,157] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,282] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1122}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,282] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,344] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1126}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,345] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,471] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1134}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,471] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,592] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1138}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,593] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,695] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1142}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,696] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,834] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1148}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,834] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:17,962] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1152}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:17,962] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:18,082] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1156}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:18,082] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:18,132] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1160}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:18,132] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:18,190] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1168}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:18,190] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:18,327] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1176}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:18,327] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:05:18,481] [ERROR] HTTP 403 for https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+Payload: {"start": 0, "entityTypeId": 1184}
+Response: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2025-10-31 18:05:18,481] [ERROR] HTTP request failed: 403 Client Error: Forbidden for url: https://yourdomain.bitrix24.kz/rest/1234/abcdef/crm.item.list
+[2025-10-31 18:16:28,315] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 9}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Сделки не поддерживается (internal error)"}
+[2025-10-31 18:16:28,315] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:28,717] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 11}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:28,718] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:28,923] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 13}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Шаблон сделки не поддерживается (internal error)"}
+[2025-10-31 18:16:28,923] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:29,258] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 15}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:29,258] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:29,495] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 17}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Оплата не поддерживается (internal error)"}
+[2025-10-31 18:16:29,495] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:29,755] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 19}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:29,755] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:29,975] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 21}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:29,975] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:30,233] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 23}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:30,234] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:30,486] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 25}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:30,486] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:30,720] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 27}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:30,720] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:30,936] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 29}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:30,936] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:31,363] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 33}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:31,363] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:31,605] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 35}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:31,605] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:31,828] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 37}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:31,829] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:32,324] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 41}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:32,324] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:32,657] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 43}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:32,657] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:32,823] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 45}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:32,823] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:33,154] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 47}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:33,154] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:33,369] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 49}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:33,369] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:33,676] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 53}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:33,676] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:33,914] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 55}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:33,914] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:34,071] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 57}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:34,072] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:34,291] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 59}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:34,291] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:34,542] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 61}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:34,542] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:35,027] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 63}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:35,027] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:35,193] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 65}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:35,193] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:35,339] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 69}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:35,339] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:35,490] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 71}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:35,490] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-10-31 18:16:35,729] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 73}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-10-31 18:16:35,729] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:22,992] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 9}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Сделки не поддерживается (internal error)"}
+[2025-11-03 09:54:23,022] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:23,258] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 11}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:23,258] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:23,482] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 13}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Шаблон сделки не поддерживается (internal error)"}
+[2025-11-03 09:54:23,482] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:23,735] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 15}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:23,735] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:23,939] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 17}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM Оплата не поддерживается (internal error)"}
+[2025-11-03 09:54:23,939] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:24,164] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 19}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:24,164] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:24,388] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 21}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:24,388] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:24,627] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 23}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:24,627] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:24,843] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 25}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:24,843] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:25,058] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 27}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:25,058] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:25,294] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 29}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:25,294] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:25,780] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 33}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:25,781] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:26,035] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 35}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:26,035] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:26,265] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 37}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:26,265] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:27,393] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 41}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:27,393] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:27,623] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 43}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:27,623] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:27,839] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 45}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:27,839] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:28,068] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 47}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:28,068] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:28,279] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 49}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:28,279] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:28,494] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 53}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:28,494] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:28,736] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 55}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:28,737] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:28,952] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 57}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:28,952] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:29,168] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 59}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:29,168] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:29,375] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 61}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:29,375] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:29,588] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 63}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:29,588] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:29,803] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 65}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:29,803] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:30,052] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 69}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:30,052] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:30,263] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 71}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:30,263] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 09:54:30,526] [ERROR] HTTP 400 for https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+Payload: {"start": 0, "entityTypeId": 73}
+Response: {"error":"ENTITY_TYPE_NOT_SUPPORTED","error_description":"Сущность CRM  не поддерживается (internal error)"}
+[2025-11-03 09:54:30,526] [ERROR] HTTP request failed: 400 Client Error: Bad Request for url: https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.item.list
+[2025-11-03 10:07:21,636] [ERROR] HTTP request failed: HTTPSConnectionPool(host='avers.bitrix24.kz', port=443): Read timed out. (read timeout=15)
+[2025-11-03 10:33:36,775] [ERROR] Failed to fetch field metadata for 1032: HTTPSConnectionPool(host='avers.bitrix24.kz', port=443): Read timed out. (read timeout=15)
+[2025-11-03 16:20:10,828] [ERROR] Failed to fetch field metadata for 1058: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2025-11-03 16:21:17,139] [ERROR] Failed to fetch field metadata for 1032: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

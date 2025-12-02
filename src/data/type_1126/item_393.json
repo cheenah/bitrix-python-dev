@@ -1,0 +1,1980 @@
+{
+  "id": 393,
+  "xmlId": "",
+  "title": "ДОГОВОР 393-CYK - ТД ASYL QALA - ВПИ - НДС 12% ОТ 20.05.2025",
+  "createdBy": 1995,
+  "updatedBy": 0,
+  "movedBy": 1995,
+  "createdTime": "2025-05-20T15:20:57+03:00",
+  "updatedTime": "2025-05-20T15:21:07+03:00",
+  "movedTime": "2025-05-20T15:20:57+03:00",
+  "categoryId": 61,
+  "opened": "Y",
+  "stageId": "DT1126_61:NEW",
+  "previousStageId": "",
+  "begindate": "2025-05-20T03:00:00+03:00",
+  "closedate": "2025-05-27T03:00:00+03:00",
+  "companyId": 4545,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 3131,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm49_1744910140775": {
+    "title": "Тип товара",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1529",
+        "VALUE": "ВПИ"
+      },
+      {
+        "ID": "1531",
+        "VALUE": "БЕТОН"
+      }
+    ],
+    "value": 1529,
+    "titleValue": "ВПИ"
+  },
+  "ufCrm49_1744910180795": {
+    "title": "Номер договора",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "393-CYK"
+  },
+  "ufCrm49_1744910200824": {
+    "title": "Дата договора",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-05-20T03:00:00+03:00"
+  },
+  "ufCrm49_1744910230095": {
+    "title": "Срок действия договора",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-12-31T03:00:00+03:00"
+  },
+  "ufCrm49_1744910501476": {
+    "title": "Тип НДС",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1533",
+        "VALUE": "НДС 12%"
+      },
+      {
+        "ID": "1535",
+        "VALUE": "Без НДС"
+      }
+    ],
+    "value": 1533,
+    "titleValue": "НДС 12%"
+  },
+  "ufCrm49_1744910543323": {
+    "title": "Тип шаблона",
+    "type": "enumeration",
+    "isRequired": true,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1537",
+        "VALUE": "Договор по нашему шаблону"
+      },
+      {
+        "ID": "1539",
+        "VALUE": "Договор по шаблону клиента"
+      }
+    ],
+    "value": 1537,
+    "titleValue": "Договор по нашему шаблону"
+  },
+  "ufCrm49_1745151154546": {
+    "title": "PDF Договора",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 299955,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1126&id=393&fieldName=UF_CRM_49_1745151154546&fileId=299955",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTI2JmlkPTM5MyZmaWVsZE5hbWU9VUZfQ1JNXzQ5XzE3NDUxNTExNTQ1NDYmZmlsZUlkPTI5OTk1NSZfPUVsb3JVY0VGR0g5WlIzMDdNSmxHMmVLWDJ5VkVWSEFO%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVEkySm1sa1BUTTVNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5YelE1WHpFM05EVXhOVEV4TlRRMU5EWW1abWxzWlVsa1BUSTVPVGsxTlNaZlBVVnNiM0pWWTBWR1IwZzVXbEl6TURkTlNteEhNbVZMV0RKNVZrVldTRUZPfDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.u%2BGAqQUENJXzN%2BWM6PvKnB9KRturpugMp12NZvNo3Qs%3D"
+    }
+  },
+  "ufCrm49_1745151426257": {
+    "title": "DOCX Договора",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 299957,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1126&id=393&fieldName=UF_CRM_49_1745151426257&fileId=299957",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTI2JmlkPTM5MyZmaWVsZE5hbWU9VUZfQ1JNXzQ5XzE3NDUxNTE0MjYyNTcmZmlsZUlkPTI5OTk1NyZfPTJCcjA4dFg3MzYwU0RVRTNVVm1vY1h0TG1sRVpoQ2N6%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVEkySm1sa1BUTTVNeVptYVdWc1pFNWhiV1U5VlVaZlExSk5YelE1WHpFM05EVXhOVEUwTWpZeU5UY21abWxzWlVsa1BUSTVPVGsxTnlaZlBUSkNjakE0ZEZnM016WXdVMFJWUlROVlZtMXZZMWgwVEcxc1JWcG9RMk42fDMxNzN8MWZoNTFjdmxpNTlodXhxNiI%3D.Zlu44cdM9UX%2FKAbcv%2FJW3IMYtli2omc80HEPzn44gO8%3D"
+    }
+  },
+  "ufCrm49_1745176780359": {
+    "title": "Результат подписания",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2133",
+        "VALUE": "Подписан без корректировок"
+      },
+      {
+        "ID": "2135",
+        "VALUE": "Подписан с корректировками"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm49_1745176849337": {
+    "title": "Подписанные документы",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm49_1745176956492": {
+    "title": "Статус согласования",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2139",
+        "VALUE": "Согласован"
+      },
+      {
+        "ID": "2141",
+        "VALUE": "Не согласован"
+      },
+      {
+        "ID": "2159",
+        "VALUE": "Создан"
+      },
+      {
+        "ID": "2163",
+        "VALUE": "Внутренний контроль"
+      },
+      {
+        "ID": "2165",
+        "VALUE": "Отклонен"
+      }
+    ],
+    "value": 2141,
+    "titleValue": "Не согласован"
+  },
+  "ufCrm49_1745220739357": {
+    "title": "Статус подписания (контрольный)",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2145",
+        "VALUE": "Подписан"
+      },
+      {
+        "ID": "2147",
+        "VALUE": "Не подписан"
+      }
+    ],
+    "value": 2147,
+    "titleValue": "Не подписан"
+  },
+  "ufCrmModifyById": {
+    "title": "Кем изменен",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrmCreatedById": {
+    "title": "Создатель сделки",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrmOrderIds": {
+    "title": "Заказы",
+    "type": "integer",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrmIsReturnCustomer": {
+    "title": "Повторная сделка",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrmIsRepeatedApproach": {
+    "title": "Повторное обращение",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrmProductIds": {
+    "title": "Товарные позиции",
+    "type": "integer",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrmProbability": {
+    "title": "Вероятность,%",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmBegindate": {
+    "title": "Дата начала",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmDateModify": {
+    "title": "Дата последнего изменения",
+    "type": "datetime",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      },
+      "USE_SECOND": "Y",
+      "USE_TIMEZONE": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmEventDate": {
+    "title": "Дата события",
+    "type": "datetime",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      },
+      "USE_SECOND": "Y",
+      "USE_TIMEZONE": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmDateCreate": {
+    "title": "Дата создания",
+    "type": "datetime",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      },
+      "USE_SECOND": "Y",
+      "USE_TIMEZONE": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmSourceDescription": {
+    "title": "Дополнительно об источнике",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmOriginatorId": {
+    "title": "Код магазина",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmLeadId": {
+    "title": "Лид",
+    "type": "integer",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmEventDescription": {
+    "title": "Описание события",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmOriginId": {
+    "title": "Покупатель магазина",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmClosedate": {
+    "title": "Предполагаемая дата закрытия",
+    "type": "datetime",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      },
+      "USE_SECOND": "Y",
+      "USE_TIMEZONE": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrmClosed": {
+    "title": "Сделка закрыта",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrmOpportunity": {
+    "title": "Сумма",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmOpportunityAccount": {
+    "title": "Сумма в валюте учета",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmCurrencyId": {
+    "title": "Валюта",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1895",
+        "VALUE": "Тенге"
+      },
+      {
+        "ID": "1897",
+        "VALUE": "Российский рубль"
+      },
+      {
+        "ID": "1899",
+        "VALUE": "Доллар США"
+      },
+      {
+        "ID": "1901",
+        "VALUE": "Евро"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmAccountCurrencyId": {
+    "title": "Валюта учета",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1903",
+        "VALUE": "Тенге"
+      },
+      {
+        "ID": "1905",
+        "VALUE": "Российский рубль"
+      },
+      {
+        "ID": "1907",
+        "VALUE": "Доллар США"
+      },
+      {
+        "ID": "1909",
+        "VALUE": "Евро"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmSourceId": {
+    "title": "Источник",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1911",
+        "VALUE": "Звонок"
+      },
+      {
+        "ID": "1913",
+        "VALUE": "Электронная почта"
+      },
+      {
+        "ID": "1915",
+        "VALUE": "Веб-сайт"
+      },
+      {
+        "ID": "1917",
+        "VALUE": "Реклама"
+      },
+      {
+        "ID": "1919",
+        "VALUE": "Существующий клиент"
+      },
+      {
+        "ID": "1921",
+        "VALUE": "По рекомендации"
+      },
+      {
+        "ID": "1923",
+        "VALUE": "KazBuild"
+      },
+      {
+        "ID": "1925",
+        "VALUE": "Выставка"
+      },
+      {
+        "ID": "1927",
+        "VALUE": "CRM-форма"
+      },
+      {
+        "ID": "1929",
+        "VALUE": "Обратный звонок"
+      },
+      {
+        "ID": "1931",
+        "VALUE": "Генератор продаж"
+      },
+      {
+        "ID": "1933",
+        "VALUE": "Битрикс24 СМС и WhatsApp - Аверс"
+      },
+      {
+        "ID": "1935",
+        "VALUE": "Telegram - Аверс - онлайн чат"
+      },
+      {
+        "ID": "1937",
+        "VALUE": "Instagram Direct - Аверс - онлайн чат"
+      },
+      {
+        "ID": "1939",
+        "VALUE": "Instagram Direct - Asyl Qala"
+      },
+      {
+        "ID": "1941",
+        "VALUE": "Telegram - Asyl Qala"
+      },
+      {
+        "ID": "1943",
+        "VALUE": "Интернет-магазин"
+      },
+      {
+        "ID": "1945",
+        "VALUE": "Facebook - Открытая линия"
+      },
+      {
+        "ID": "1947",
+        "VALUE": "Instagram для бизнеса - Открытая линия"
+      },
+      {
+        "ID": "1949",
+        "VALUE": "Другое"
+      },
+      {
+        "ID": "1951",
+        "VALUE": "Онлайн-чат - Открытая линия"
+      },
+      {
+        "ID": "1953",
+        "VALUE": "Портал Госзакупок"
+      },
+      {
+        "ID": "1955",
+        "VALUE": "Архихаб"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmTrackingSourceId": {
+    "title": "Источник сквозной аналитики",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1957",
+        "VALUE": "Avers"
+      },
+      {
+        "ID": "1959",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "1961",
+        "VALUE": "Facebook Asyl Qala"
+      },
+      {
+        "ID": "1963",
+        "VALUE": "Facebook Avers"
+      },
+      {
+        "ID": "1965",
+        "VALUE": "Instagram Asyl Qala"
+      },
+      {
+        "ID": "1967",
+        "VALUE": "Instagram Avers"
+      },
+      {
+        "ID": "1969",
+        "VALUE": "Avers"
+      },
+      {
+        "ID": "1971",
+        "VALUE": "Asyl Qala"
+      },
+      {
+        "ID": "1973",
+        "VALUE": "Прочий трафик"
+      },
+      {
+        "ID": "1975",
+        "VALUE": "Email Маркетинг"
+      },
+      {
+        "ID": "1977",
+        "VALUE": "Органика Asyl Qala"
+      },
+      {
+        "ID": "1979",
+        "VALUE": "Органика Avers"
+      },
+      {
+        "ID": "1981",
+        "VALUE": "Instagram Direct Asyl Qala"
+      },
+      {
+        "ID": "1983",
+        "VALUE": "Instagram Direct Avers"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmComments": {
+    "title": "Комментарий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmTypeId": {
+    "title": "Тип",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1985",
+        "VALUE": "Продажа"
+      },
+      {
+        "ID": "1987",
+        "VALUE": "Комплексная продажа"
+      },
+      {
+        "ID": "1989",
+        "VALUE": "Продажа товара"
+      },
+      {
+        "ID": "1991",
+        "VALUE": "Продажа услуги"
+      },
+      {
+        "ID": "1993",
+        "VALUE": "Сервисное обслуживание"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmEventId": {
+    "title": "Тип события",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "1995",
+        "VALUE": "Информация"
+      },
+      {
+        "ID": "1997",
+        "VALUE": "Телефонный звонок"
+      },
+      {
+        "ID": "1999",
+        "VALUE": "Отправлен email"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmRsGoogleCid": {
+    "title": "rs_google_client_id",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRsUtmCamp": {
+    "title": "rs_utm_campaign",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRsUtmCont": {
+    "title": "rs_utm_content",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRsUtmMedium": {
+    "title": "rs_utm_medium",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRsUtmSource": {
+    "title": "rs_utm_source",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRsUtmTerm": {
+    "title": "rs_utm_term",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1743615730670": {
+    "title": "Бюджет перевозки",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1732040766": {
+    "title": "ГИП",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08ABC74C": {
+    "title": "Дата договора",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1745059945": {
+    "title": "Договор реализации",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1680525313933": {
+    "title": "Затраты на проектирование",
+    "type": "money",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1649696779": {
+    "title": "Изначальный ответственный (Поле сделки)",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08B39184": {
+    "title": "Изначальный ответственный (Поле)",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08ADA129": {
+    "title": "К договору от",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08B1BAF9": {
+    "title": "К договору от",
+    "type": "datetime",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      },
+      "USE_SECOND": "Y",
+      "USE_TIMEZONE": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08A3B5D3": {
+    "title": "К договору №",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1743671309": {
+    "title": "Карточка затрат на перевозку (сделка)",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1743667188": {
+    "title": "Карточка затрат создана",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrm_1744637491": {
+    "title": "Карточка комиссий",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1678178765": {
+    "title": "Ключевое лицо сделки",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm_1651555497724": {
+    "title": "Комментарий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1651555472701": {
+    "title": "Место покупки",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2001",
+        "VALUE": "Тас Килем"
+      },
+      {
+        "ID": "2003",
+        "VALUE": "Конкрит Астана"
+      },
+      {
+        "ID": "2005",
+        "VALUE": "Другой"
+      },
+      {
+        "ID": "2007",
+        "VALUE": "Неизвестно"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrmObserverIds": {
+    "title": "Наблюдатели",
+    "type": "employee",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": [],
+    "items": [],
+    "value": []
+  },
+  "ufCrm_1721996919871": {
+    "title": "Наша организация",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2009",
+        "VALUE": "ТД АВЕРС"
+      },
+      {
+        "ID": "2011",
+        "VALUE": "ТД ASYL QALA"
+      },
+      {
+        "ID": "2013",
+        "VALUE": "АВЕРС БЕТОН"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1586880695777": {
+    "title": "Объект",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1737051269036": {
+    "title": "Объем бетона",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1737051244290": {
+    "title": "Объем покрытий",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrmRequiredfieldelement": {
+    "title": "Обязательные поля",
+    "type": "rest_97_universalrequiredfield",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": [],
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1743420929525": {
+    "title": "Последнее согласованное КП",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1744834277": {
+    "title": "Предыдущая стадия",
+    "type": "crm_status",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "ENTITY_TYPE": {
+        "ID": "STATUS",
+        "NAME": "Стадии лида",
+        "SEMANTIC_INFO": {
+          "START_FIELD": "NEW",
+          "FINAL_SUCCESS_FIELD": "CONVERTED",
+          "FINAL_UNSUCCESS_FIELD": "JUNK",
+          "FINAL_SORT": 0
+        },
+        "ENTITY_TYPE_ID": 1
+      }
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1744706939125": {
+    "title": "Привязанные задания на проектирование",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm_1744795648106": {
+    "title": "Привязанные заявки на образцы",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": []
+  },
+  "ufCrm_67AEE0432C618": {
+    "title": "Причина браковки лида",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2015",
+        "VALUE": "Запрос от поставщика"
+      },
+      {
+        "ID": "2017",
+        "VALUE": "Запрос для бухгалтерии"
+      },
+      {
+        "ID": "2019",
+        "VALUE": "Нет ответа от клиента/номер не доступен"
+      },
+      {
+        "ID": "2021",
+        "VALUE": "Запрос по существующей сделке"
+      },
+      {
+        "ID": "2023",
+        "VALUE": "Не производим такой материал"
+      },
+      {
+        "ID": "2025",
+        "VALUE": "Случайный запрос"
+      },
+      {
+        "ID": "2027",
+        "VALUE": "Спам/реклама"
+      },
+      {
+        "ID": "2029",
+        "VALUE": "За пределами Казахстана"
+      },
+      {
+        "ID": "2031",
+        "VALUE": "Не связались вовремя"
+      },
+      {
+        "ID": "2033",
+        "VALUE": "Иная причина (обязательно указать в комментарии)"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1651553605976": {
+    "title": "Причина отказа",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2035",
+        "VALUE": "Отмена проекта полностью"
+      },
+      {
+        "ID": "2037",
+        "VALUE": "Не устроили сроки"
+      },
+      {
+        "ID": "2039",
+        "VALUE": "Не устроила цена"
+      },
+      {
+        "ID": "2041",
+        "VALUE": "Не устроила логистика"
+      },
+      {
+        "ID": "2043",
+        "VALUE": "Иное (указать в комментарии)"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1744696882002": {
+    "title": "Регион поставки",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2045",
+        "VALUE": "Астана"
+      },
+      {
+        "ID": "2047",
+        "VALUE": "Алматы"
+      },
+      {
+        "ID": "2049",
+        "VALUE": "Атырау"
+      },
+      {
+        "ID": "2051",
+        "VALUE": "Жезказган"
+      },
+      {
+        "ID": "2053",
+        "VALUE": "Караганда"
+      },
+      {
+        "ID": "2055",
+        "VALUE": "Кокшетау"
+      },
+      {
+        "ID": "2057",
+        "VALUE": "Конаев"
+      },
+      {
+        "ID": "2059",
+        "VALUE": "Костанай"
+      },
+      {
+        "ID": "2061",
+        "VALUE": "Кызылорда"
+      },
+      {
+        "ID": "2063",
+        "VALUE": "Павлодар"
+      },
+      {
+        "ID": "2065",
+        "VALUE": "Петропавловск"
+      },
+      {
+        "ID": "2067",
+        "VALUE": "Семей"
+      },
+      {
+        "ID": "2069",
+        "VALUE": "Талдыкорган"
+      },
+      {
+        "ID": "2071",
+        "VALUE": "Тараз"
+      },
+      {
+        "ID": "2073",
+        "VALUE": "Темиртау"
+      },
+      {
+        "ID": "2075",
+        "VALUE": "Туркестан"
+      },
+      {
+        "ID": "2077",
+        "VALUE": "Уральск"
+      },
+      {
+        "ID": "2079",
+        "VALUE": "Усть-Каменогорск"
+      },
+      {
+        "ID": "2081",
+        "VALUE": "Шымкент"
+      },
+      {
+        "ID": "2083",
+        "VALUE": "Россия"
+      },
+      {
+        "ID": "2085",
+        "VALUE": "Узбекистан"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1731521375": {
+    "title": "Руководитель проекта",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_6437D08B48F05": {
+    "title": "Сделка для задач (Поле)",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1649732680": {
+    "title": "Создавать документы:",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2087",
+        "VALUE": "Договор"
+      },
+      {
+        "ID": "2089",
+        "VALUE": "Спецификацию"
+      },
+      {
+        "ID": "2091",
+        "VALUE": "Договор + Спецификацию"
+      },
+      {
+        "ID": "2093",
+        "VALUE": "Не создавать"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1745072679124": {
+    "title": "Спецификация",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1745070119": {
+    "title": "Спецификация реализации",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1586880652559": {
+    "title": "Срок поставки",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1744810301423": {
+    "title": "Терминальная обработка",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2095",
+        "VALUE": "Терминал в Алматы"
+      },
+      {
+        "ID": "2097",
+        "VALUE": "Другое"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1649697607037": {
+    "title": "Тип НДС",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2099",
+        "VALUE": "НДС 12%"
+      },
+      {
+        "ID": "2101",
+        "VALUE": "НДС 0%"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1744657144405": {
+    "title": "Тип клиента",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2103",
+        "VALUE": "Корпоративный"
+      },
+      {
+        "ID": "2105",
+        "VALUE": "Частные лица"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1739939912944": {
+    "title": "Тип покрытий",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2107",
+        "VALUE": "GRANITE"
+      },
+      {
+        "ID": "2109",
+        "VALUE": "KIIZSTONE"
+      },
+      {
+        "ID": "2111",
+        "VALUE": "NATIVE / TUSTISTONE"
+      }
+    ],
+    "value": [],
+    "titles": []
+  },
+  "ufCrm_1649611437175": {
+    "title": "Тип товара",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2113",
+        "VALUE": "ВПИ"
+      },
+      {
+        "ID": "2115",
+        "VALUE": "БЕТОН"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1745087532565": {
+    "title": "Тип шаблона",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2117",
+        "VALUE": "Договор по нашему шаблону"
+      },
+      {
+        "ID": "2119",
+        "VALUE": "Договор по шаблону клиента"
+      },
+      {
+        "ID": "2121",
+        "VALUE": "Договор-спецификация"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm_1680525262376": {
+    "title": "Трудозатраты на проектирование, часов.",
+    "type": "double",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "PRECISION": 2,
+      "SIZE": 20,
+      "MIN_VALUE": 0,
+      "MAX_VALUE": 0,
+      "DEFAULT_VALUE": null
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_DEAL_3849016398546": {
+    "title": "Удален в 1С",
+    "type": "boolean",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": 0,
+      "DISPLAY": "CHECKBOX",
+      "LABEL": [
+        "",
+        ""
+      ],
+      "LABEL_CHECKBOX": ""
+    },
+    "items": [],
+    "value": "N"
+  },
+  "ufCrm_1745156947": {
+    "title": "Уникальная спецификация",
+    "type": "crm",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "LEAD": "Y",
+      "CONTACT": "N",
+      "COMPANY": "N",
+      "DEAL": "N"
+    },
+    "items": [],
+    "value": null
+  },
+  "ufCrm_1586880431686": {
+    "title": "Условия оплаты",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm_1586880518069": {
+    "title": "Условия поставки",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2123",
+        "VALUE": "доставка осуществляется Поставщиком на условиях Договора, объемом кратным одной машине Поставщика, не кратный объем выбирается Покупателем самостоятельно со склада Поставщика. Разгрузка товара осуществляется Покупателем."
+      },
+      {
+        "ID": "2125",
+        "VALUE": "доставка осуществляется Поставщиком на условиях Договора. Разгрузка товара осуществляется Покупателем."
+      },
+      {
+        "ID": "2127",
+        "VALUE": "доставка осуществляется Поставщиком на условиях Договора. Разгрузка товара осуществляется Поставщиком"
+      },
+      {
+        "ID": "2129",
+        "VALUE": "самовывоз со склада Поставщика в г.Астана"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "assignedById": 1995,
+  "isRecurring": "N",
+  "lastActivityBy": 1995,
+  "lastActivityTime": "2025-05-20T15:20:57+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": null,
+  "parentId1138": null,
+  "parentId1148": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1126
+}

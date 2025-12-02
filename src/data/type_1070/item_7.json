@@ -1,0 +1,72 @@
+{
+  "id": 7,
+  "xmlId": "",
+  "title": "Пул поставщиков #7",
+  "createdBy": 2569,
+  "updatedBy": 2569,
+  "movedBy": 2569,
+  "createdTime": "2025-03-14T14:00:27+03:00",
+  "updatedTime": "2025-03-14T14:00:27+03:00",
+  "movedTime": "2025-03-14T14:00:27+03:00",
+  "categoryId": 37,
+  "opened": "N",
+  "previousStageId": "",
+  "begindate": "2025-03-14T03:00:00+03:00",
+  "closedate": "2025-03-21T03:00:00+03:00",
+  "companyId": 1447,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm25_1740727556860": {
+    "title": "Источник добавления",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "759",
+        "VALUE": "CRM-форма"
+      },
+      {
+        "ID": "761",
+        "VALUE": "УНФ (история закупки)"
+      },
+      {
+        "ID": "763",
+        "VALUE": "Вручную"
+      }
+    ],
+    "value": 763,
+    "titleValue": "Вручную"
+  },
+  "assignedById": 2569,
+  "isRecurring": "N",
+  "lastActivityBy": 2569,
+  "lastActivityTime": "2025-03-14T14:00:27+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId1038": 5,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1070
+}

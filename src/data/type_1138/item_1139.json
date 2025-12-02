@@ -1,0 +1,255 @@
+{
+  "id": 1139,
+  "xmlId": "",
+  "title": "ДОГОВОР-СПЕЦИФИКАЦИЯ STT/Пос/AQLite-1-2/117711 - ТД АВЕРС - ВПИ - НДС 12% ОТ 20.10.2025",
+  "createdBy": 1797,
+  "updatedBy": 0,
+  "movedBy": 1797,
+  "createdTime": "2025-10-22T12:37:28+03:00",
+  "updatedTime": "2025-10-22T12:37:56+03:00",
+  "movedTime": "2025-10-22T12:37:55+03:00",
+  "categoryId": 67,
+  "opened": "Y",
+  "stageId": "DT1138_67:SUCCESS",
+  "previousStageId": "DT1138_67:CLIENT",
+  "begindate": "2025-10-22T03:00:00+03:00",
+  "closedate": "2025-10-29T03:00:00+03:00",
+  "companyId": 1023,
+  "contactId": 0,
+  "opportunity": 0,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "KZT",
+  "opportunityAccount": 0,
+  "taxValueAccount": 0,
+  "accountCurrencyId": "KZT",
+  "mycompanyId": 21,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm55_1745072247730": {
+    "title": "Спецификация",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": true,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": [
+      {
+        "id": 334425,
+        "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1138&id=1139&fieldName=UF_CRM_55_1745072247730&fileId=334425",
+        "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTM4JmlkPTExMzkmZmllbGROYW1lPVVGX0NSTV81NV8xNzQ1MDcyMjQ3NzMwJmZpbGVJZD0zMzQ0MjUmXz1RZFBJYW0yS0hHa05oUWZxdnIzYlljRFNrMG44RzZiVA%3D%3D%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVE00Sm1sa1BURXhNemttWm1sbGJHUk9ZVzFsUFZWR1gwTlNUVjgxTlY4eE56UTFNRGN5TWpRM056TXdKbVpwYkdWSlpEMHpNelEwTWpVbVh6MVJaRkJKWVcweVMwaEhhMDVvVVdaeGRuSXpZbGxqUkZOck1HNDRSelppVkE9PXwzMTczfDFmaDUxY3ZsaTU5aHV4cTYi.5RSVyosyr8QA%2Fs19op2m3iP%2FBxeu0TMFgNnYw5ffRw0%3D"
+      }
+    ]
+  },
+  "ufCrm55_1745076621532": {
+    "title": "Номер договора",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": "STT/Пос/AQLite-1-2/117711"
+  },
+  "ufCrm55_1745076632459": {
+    "title": "Дата договора",
+    "type": "date",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DEFAULT_VALUE": {
+        "TYPE": "NONE",
+        "VALUE": ""
+      }
+    },
+    "items": [],
+    "value": "2025-10-20T03:00:00+03:00"
+  },
+  "ufCrm55_1745236198834": {
+    "title": "Статус подписания (контрольный)",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2173",
+        "VALUE": "Подписана"
+      },
+      {
+        "ID": "2175",
+        "VALUE": "Не подписана"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm55_1745236263045": {
+    "title": "Статус согласования",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2177",
+        "VALUE": "Создана"
+      },
+      {
+        "ID": "2179",
+        "VALUE": "Внутреннее согласование"
+      },
+      {
+        "ID": "2181",
+        "VALUE": "Внутренний контроль"
+      },
+      {
+        "ID": "2183",
+        "VALUE": "Согласована"
+      },
+      {
+        "ID": "2185",
+        "VALUE": "Отклонена"
+      }
+    ],
+    "value": 2183,
+    "titleValue": "Согласована"
+  },
+  "ufCrm55_1745329601": {
+    "title": "Номер спецификации",
+    "type": "string",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "ROWS": 1,
+      "REGEXP": "",
+      "MIN_LENGTH": 0,
+      "MAX_LENGTH": 0,
+      "DEFAULT_VALUE": ""
+    },
+    "items": [],
+    "value": ""
+  },
+  "ufCrm55_1745331296068": {
+    "title": "Путь согласования",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "UI",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2199",
+        "VALUE": "НЕ ТРЕБУЕТ"
+      },
+      {
+        "ID": "2201",
+        "VALUE": "ТОЛЬКО ОПЛАТА"
+      },
+      {
+        "ID": "2203",
+        "VALUE": "ТОЛЬКО ПРОИЗВОДСТВО"
+      },
+      {
+        "ID": "2205",
+        "VALUE": "ПОЛНОЕ"
+      }
+    ],
+    "value": null,
+    "titleValue": "None"
+  },
+  "ufCrm55_1745342207739": {
+    "title": "Подписанная спецификация",
+    "type": "file",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "SIZE": 20,
+      "LIST_WIDTH": 0,
+      "LIST_HEIGHT": 0,
+      "MAX_SHOW_SIZE": 0,
+      "MAX_ALLOWED_SIZE": 0,
+      "EXTENSIONS": [],
+      "TARGET_BLANK": "Y"
+    },
+    "items": [],
+    "value": {
+      "id": 334427,
+      "url": "https://avers.bitrix24.kz/bitrix/services/main/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=1138&id=1139&fieldName=UF_CRM_55_1745342207739&fileId=334427",
+      "urlMachine": "https://avers.bitrix24.kz/rest/3173/1fh51cvli59huxq6/crm.controller.item.getFile/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMTM4JmlkPTExMzkmZmllbGROYW1lPVVGX0NSTV81NV8xNzQ1MzQyMjA3NzM5JmZpbGVJZD0zMzQ0MjcmXz1SVklwMzhvcGE4bzdmTEk5QVgzR0Q1ck8zUURqbzVJNQ%3D%3D%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNVE00Sm1sa1BURXhNemttWm1sbGJHUk9ZVzFsUFZWR1gwTlNUVjgxTlY4eE56UTFNelF5TWpBM056TTVKbVpwYkdWSlpEMHpNelEwTWpjbVh6MVNWa2x3TXpodmNHRTRiemRtVEVrNVFWZ3pSMFExY2s4elVVUnFielZKTlE9PXwzMTczfDFmaDUxY3ZsaTU5aHV4cTYi.2Fr2uyjukdDXuFmwjva%2FaCWKqCva08LxlKRt6vnWun4%3D"
+    }
+  },
+  "ufCrm55_1745342869": {
+    "title": "Контрольный статус подписания",
+    "type": "enumeration",
+    "isRequired": false,
+    "isMultiple": false,
+    "settings": {
+      "DISPLAY": "LIST",
+      "LIST_HEIGHT": 1,
+      "CAPTION_NO_VALUE": "",
+      "SHOW_NO_VALUE": "Y"
+    },
+    "items": [
+      {
+        "ID": "2211",
+        "VALUE": "Не подписана"
+      },
+      {
+        "ID": "2213",
+        "VALUE": "Подписана"
+      }
+    ],
+    "value": 2213,
+    "titleValue": "Подписана"
+  },
+  "assignedById": 1797,
+  "isRecurring": "N",
+  "lastActivityBy": 1,
+  "lastActivityTime": "2025-10-22T12:37:40+03:00",
+  "lastCommunicationTime": null,
+  "lastCommunicationCallTime": null,
+  "lastCommunicationEmailTime": null,
+  "lastCommunicationImolTime": null,
+  "lastCommunicationWebformTime": null,
+  "parentId2": null,
+  "parentId1126": null,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [],
+  "contactIds": [],
+  "entityTypeId": 1138
+}
